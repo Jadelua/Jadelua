@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/Ak37JWMopGsAAAAC/niko-niko-oneshot.gif" width="400">
   <p> <strong> "I truly had OneShot" </strong> </p>
-  <br>
-  <br>
-  <img src="" >
+</div>
+<div align="left">
+  <img src="https://media1.tenor.com/m/boX7pa8RKfwAAAAd/niko-oneshot-niko-spin.gif">
 </div>
