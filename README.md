@@ -3,5 +3,5 @@
   <p> <strong> "I truly had OneShot" </strong> </p>
 </div>
 <div align="left">
-  <img src="https://media1.tenor.com/m/boX7pa8RKfwAAAAd/niko-oneshot-niko-spin.gif" width=10>
+  <img src="https://media1.tenor.com/m/boX7pa8RKfwAAAAd/niko-oneshot-niko-spin.gif" width=30>
 </div>
