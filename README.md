@@ -5,8 +5,9 @@
 <div align="left">
   <img src="https://media1.tenor.com/m/boX7pa8RKfwAAAAd/niko-oneshot-niko-spin.gif" width=30>
 </div>
-
-
-
-  
-<h1>e</h1>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p> Stuff bout me </p>
