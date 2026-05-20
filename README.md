@@ -8,8 +8,6 @@
   <img src="right.gif" width="150" style="float:right;">
 </div>
 
-<div style="clear:both;"></div>
-
 <br>
 <br>
 <br>
