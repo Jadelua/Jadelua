@@ -15,4 +15,5 @@
 # Repos:
 [CheesyCSV](https://github.com/Jadelua/CheesyCSV) <br>
 [Niko Clicker](https://github.com/Jadelua/Niko-Clicker) <br>
-[JadeVM](https://github.com/Jadelua/JadeVM)
+[JadeVM](https://github.com/Jadelua/JadeVM) <br>
+[JVM-lua](https://github.com/Jadelua/JVM-lua)
