@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/image.png" width="400">
+  <img src="assets/image.png" width="800">
   <p> <strong> "I truly had OneShot" </strong> </p>
 </div>
 
